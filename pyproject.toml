@@ -13,7 +13,7 @@ authors = [
   { name = "Ryoma Kai", email = "legnoh@lkj.io" }
 ]
 dependencies = [
-  "requests>=2.31.0"
+  "requests>=2.33.1"
 ]
 
 [project.urls]
